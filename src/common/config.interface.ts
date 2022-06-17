@@ -1,3 +1,3 @@
 export interface IEnvConfig {
-  SERVER_PORT: string;
+    SERVER_PORT: string;
 }
